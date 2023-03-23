@@ -1,7 +1,7 @@
-This ROMS trunk includes modified NPZD (NPPZD) model used in Choi et al.
+This ROMS trunk includes modified NPZD (NPPZD) model used in Choi et al. (2023).
 The model was used to study population dynamics of prey avoidance and resolves two different phytoplankton, which have different nutrient uptake and prey avoidance ability, and one zooplankton group.
 
-Source code and simple test problem (including instruction) will be updated as soon as possible once the paper is published.
+Simple test problem (including instruction) will be updated soon.
 
 Reference
-Choi, J.-G., Lippmann, T., Harvey, L., (accepted). Analytical population dynamics underlying harmful algal blooms triggered by prey avoidance. Ecological Modeling.
+Choi, J.-G., Lippmann, T., Harvey, L., (2023). Analytical population dynamics underlying harmful algal blooms triggered by prey avoidance. Ecological Modeling, 481, 110366. https://doi.org/10.1016/j.ecolmodel.2023.110366
